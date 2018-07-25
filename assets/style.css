@@ -1,3 +1,11 @@
 *{
     outline: 1px red solid;
 }
+
+.blue {
+    background-color: blue;
+}
+
+.main-page header {
+    height: 10%;
+}
