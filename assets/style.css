@@ -4,10 +4,13 @@
 
 .lightblue {
     background-color: lightblue;
+    color: white;
 }
 
 .grey {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
-
+.white {
+    background-color: white;
+}
