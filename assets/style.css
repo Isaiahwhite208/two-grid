@@ -10,3 +10,6 @@
     margin: 20px 50px;
 } */
 
+*{
+    outline: 1px red;
+}
