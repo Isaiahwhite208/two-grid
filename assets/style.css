@@ -2,6 +2,10 @@
     outline: 1px red solid;
 }
 
+.lightblue {
+    background-color: lightblue;
+}
+
 .grey {
     background-color: grey;
 }
